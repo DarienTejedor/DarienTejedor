@@ -6,4 +6,4 @@ Apasionado por el **desarrollo de software back-end** con experiencia en Java & 
 
 Actualmente me encuentro estudiando Ingenieria de Software en la Universidad Manuela Beltran.
 
-[![LinkedIn]Hola]https://img.shields.io/badge/www.linkedin.com%2Fin%2Fdarien-tejedor?style=flat-square&logo=logmein&logoColor=white&label=LinkedIn&labelColor=blue&color=white
+![LinkedIn](https://img.shields.io/badge/www.linkedin.com%2Fin%2Fdarien-tejedor?style=flat-square&logo=logmein&logoColor=white&label=LinkedIn&labelColor=blue&color=white)
