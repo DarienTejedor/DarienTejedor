@@ -6,7 +6,9 @@
 
 - 🎓 Estudiante de **Ingeniería de Software** en la Universidad Manuela Beltrán.  
 - 💻 Experiencia en el desarrollo de **APIs REST** utilizando **Java** y **Spring Boot**.  
-- 🛠️ Conocimientos en **bases de datos SQL**, **Python**, **JWT**, y modelado con **UML**.  
+- 🛠️ Conocimientos en **bases de datos SQL**, **Python**, **JWT**, y modelado con **UML**.
+- ⚙️ Testing con **Junit** y **Mockito**.
+- 📃 Documentacion con **Swagger** y **OpenApi**.
 - 📚 Interés en aprender más sobre **arquitectura de software**, **patrones de diseño**, **Docker** y cloud como **AWS**.  
 
 ---
